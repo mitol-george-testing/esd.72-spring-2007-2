@@ -1,0 +1,43 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "3e347107-d66a-951b-3815-6e579e806552"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Engineering Risk-Benefit Analysis",
+  "course_description": "ERBA (ESD.72) emphasizes three methodologies - reliability and probabilistic risk assessment (RPRA), decision analysis (DA), and cost-benefit analysis (CBA). In this class, the issues of interest are: the risks associated with large engineering projects such as nuclear power reactors, the International Space Station, and critical infrastructures; the development of new products; the design of processes and operations with environmental externalities; and infrastructure renewal projects.\n",
+  "department_numbers": [
+    "ESD",
+    "1",
+    "2",
+    "3",
+    "6",
+    "10",
+    "16",
+    "22"
+  ],
+  "extra_course_numbers": "1.155,2.963,3.577,6.938,10.816,16.862,22.82",
+  "primary_course_number": "ESD.72",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
